@@ -47,3 +47,7 @@ fetch("https://jsonplaceholder.typicode.com/users", {
 - [daisyui](https://daisyui.com/) 라는 라이브러리가 있는데, 이것을 설치하고 tailwind 플러그인에 등록하면 부트스트랩처럼 사용할 수 있다
 - eliment ui 처럼 클래스에 선언하는 것만으로도 해당 컴포넌트를 사용할 수 있기 때문에 컴포넌트를 import 할 필요가 없어서 훨씬 편하다
 - 테마도 설정할 수 있으니 필요하다면 도큐먼트에 가서 보는 것도 좋을 듯하다
+
+---
+
+이것은 [Mosh](https://youtu.be/ZVnjOPwW4ZA?si=VDXk7Txts6hcgguo) 의 튜토리얼 영상을 보고 했는데, 이 개발자의 유튜브가 꽤 쏠쏠하다
